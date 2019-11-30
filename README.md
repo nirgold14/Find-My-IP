@@ -3,9 +3,9 @@
 This app, created with React, allow the user to achieve details about a requested IP address,
 and even see the location in google Map Iframe
 
-In order to achieve this goal we communicate with:
-  IPdata - an API which return data about an IP address             ~ API key needed (/src/services/httpService.js --> APIkey field)
-  Google - an API which return a map with the IP address location.  ~ API key needed (/src/GoogleMap/GoogleMap.js  --> googleAPIkey field)
+In order to achieve this goal we communicate with:<br />
+  IPdata - an API which return data about an IP address             ~ API key needed (/src/services/httpService.js --> APIkey field)<br />
+  Google - an API which return a map with the IP address location.  ~ API key needed (/src/GoogleMap/GoogleMap.js  --> googleAPIkey field)<br />
   
 ## Available Scripts
 
