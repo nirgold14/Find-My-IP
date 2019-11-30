@@ -1,0 +1,35 @@
+.resultsDiv{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: none;
+    margin-top:50px;
+}
+
+.resultsFeatureWrapper{
+    display: block;
+    margin:auto;
+    border: 4px solid black;
+    border-radius: 5px;
+    background-color: whitesmoke;
+    height: 300px;
+    width: 400px;
+    
+}
+
+.IPinfo{
+    font-family: 'Bree Serif', serif;
+    font-size:20px;
+    text-align: left;    
+    padding:20px;
+}
+
+.flag_img{
+    
+    display: block;
+    margin:auto;
+    margin-top: 40px;
+    width:100px;
+    border: 2px solid black;
+}

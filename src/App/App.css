@@ -1,0 +1,35 @@
+.App {
+  display:block;
+  margin:auto;
+  padding:10px;
+  margin-top:30px;
+  margin-bottom: 30px;
+  width:70%;
+  text-align: center;
+  background-color: rgba(44, 116, 50, 0.205);
+  border-radius: 20px;
+  height:550px
+
+}
+
+.Header {  
+  
+  font-size: 50px;
+  font-family: 'Bree Serif', serif;
+  background-color: rgba(44, 116, 50, 0.438);
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+
+.logo-img{
+  margin-top: 20px;
+  height:375px;
+}
+
+.hide{
+  display:none;
+}
+
+
+
+

@@ -1,0 +1,17 @@
+.Action-Bar-Container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: none;
+
+}
+
+.specific_IP_wrapper{
+   width: 250px;
+   margin-top:15px;
+}
+
+.personal_IP_btn{
+    margin-right:50px;
+}
