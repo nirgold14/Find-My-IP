@@ -1,6 +1,7 @@
 import React from 'react'
 import './GoogleMap.css';
 
+const googleAPIkey = 'AIzaSyCdQymwSuF0P6Ee-ffX0ZtWjpJdpaT5eLk'
 function GoogleMap(props) {
     /** Props
     *    ~ data: {country, city, currency, flag}
@@ -22,7 +23,7 @@ function GoogleMap(props) {
         } else {
             city = ""
         }
-        return `https://www.google.com/maps/embed/v1/place?key=AIzaSyCdQymwSuF0P6Ee-ffX0ZtWjpJdpaT5eLk&q=${city},${country}`
+        return `https://www.google.com/maps/embed/v1/place?key=${googleAPIkey}&q=${city},${country}`
     }
 
     return (
