@@ -8,6 +8,7 @@ In order to achieve this goal we communicate with:<br />
   Google - an API which return a map with the IP address location.  ~ API key needed (/src/GoogleMap/GoogleMap.js  --> googleAPIkey field)<br />
   
   Demo Video: demo.avi
+  Enjoy!
   
 ## Available Scripts
 
